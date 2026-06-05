@@ -1,2 +1,2 @@
-//hello
-//modifies in repo2..
+Line 1: Hello Git
+2:수정됨& repo1 and repo2
