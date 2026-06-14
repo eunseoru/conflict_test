@@ -1,2 +1,2 @@
 Line 1: Hello Git
-2:수정됨& repo1 and repo2
+2:origin에서 수정했음.
